@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI_v2</string>
+    <string name="radio_male">male</string>
+    <string name="radio_female">female</string>
+</resources>
