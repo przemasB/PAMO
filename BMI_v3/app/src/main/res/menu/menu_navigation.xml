@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Start screen"
+        android:icon="@drawable/ic_home_black_24dp" />
+    <item
+        android:id="@+id/bmi"
+        android:title="BMI"
+        android:icon="@drawable/ic_content_paste_black_24dp" />
+
+    <item
+        android:id="@+id/bmr"
+        android:title="Calories"
+        android:icon="@drawable/ic_directions_run_black_24dp" />
+    <item
+        android:id="@+id/recipes"
+        android:title="Food"
+        android:icon="@drawable/ic_restaurant_black_24dp" />
+    <item
+        android:id="@+id/quiz"
+        android:title="Quiz"
+        android:icon="@drawable/ic_event_available_black_24dp" />
+
+</menu>
