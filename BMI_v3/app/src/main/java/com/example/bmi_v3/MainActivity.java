@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
 
         PieChart chart = findViewById(R.id.chart);
         chart.setData(data);
-        //  chart.animateY(1000);
+        chart.animateY(1000);
         chart.invalidate();
         chart.setDrawHoleEnabled(false);
 
@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
         description.setEnabled(true);
         description.setText("CoronaVirus death toll by countries (27/03/20)");
         description.setTextSize(17f);
-        description.setPosition(1075,100);
+        description.setPosition(1025,100);
 
 
     }

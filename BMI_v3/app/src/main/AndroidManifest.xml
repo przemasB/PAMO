@@ -9,7 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.example.bmi_v3.Chart"></activity>
         <activity android:name="com.example.bmi_v3.Quiz" />
         <activity android:name="com.example.bmi_v3.Recipes" />
         <activity android:name="com.example.bmi_v3.Bmr" />
